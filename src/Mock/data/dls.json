@@ -1,0 +1,32 @@
+[
+    {
+        "price": 50,
+        "txt": "上衣",
+        "src": "./src/assets/images/banner/one.png"
+    },
+    {
+        "price": 70,
+        "txt": "无印",
+        "src": "./src/assets/images/banner/one.png"
+    },
+    {
+        "price": 120,
+        "txt": "宜家",
+        "src": "./src/assets/images/banner/two.png"
+    },
+    {
+        "price": 100,
+        "txt": "家局",
+        "src": "./src/assets/images/banner/two.png"
+    },
+    {
+        "price": 70,
+        "txt": "无印",
+        "src": "./src/assets/images/banner/one.png"
+    },
+    {
+        "price": 120,
+        "txt": "宜家",
+        "src": "./src/assets/images/banner/two.png"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id": 0,
+        "tit": "旺顺阁鱼头",
+        "txt": "[王府井]1斤鱼头3选1",
+        "src": "./src/assets/one.png",
+        "price": 29.9,
+        "onlyPri": 109,
+        "num": 10
+    },
+    {
+        "id": 1,
+        "tit": "吉野家",
+        "txt": "[147价]寿司烤鱼",
+        "src": "./src/assets/two.png",
+        "price": 16,
+        "onlyPri": 26,
+        "num": 30
+    },
+    {
+        "id": 2,
+        "tit": "姐弟俩图否否",
+        "txt": "[洗三]112",
+        "src": "./src/assets/three.png",
+        "price": 11.9,
+        "onlyPri": 13,
+        "num": 40
+    }
+]

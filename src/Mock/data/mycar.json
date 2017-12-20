@@ -1,0 +1,26 @@
+[
+    {
+        "price": 25,
+        "id": 0,
+        "src": "./src/assets/shiwu/bar1.png",
+        "tit": "运动组合袜",
+        "alt": "袜号22-24（建议12-15岁）",
+        "sum": 1
+    },
+    {
+        "price": 200,
+        "id": 1,
+        "src": "./src/assets/shiwu/bar2.png",
+        "tit": "无印良品香薰机",
+        "alt": "对身体无害，轻松营造家的美好感觉",
+        "sum": 4
+    },
+    {
+        "price": 300,
+        "id": 2,
+        "src": "./src/assets/shiwu/bar3.png",
+        "tit": "Gucci刺绣中国风卫衣",
+        "alt": "2017pink系列",
+        "sum": 2
+    }
+]

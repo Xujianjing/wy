@@ -1,0 +1,36 @@
+[
+    {
+        "banner": "./src/assets/shiwu/sweet.jpg",
+        "tit": "没吃过他们，今年算白胖了",
+        "txt": "99元任选9件",
+        "childs": [
+            {
+                "src": "./src/assets/shiwu/sweet2.jpg",
+                "tit": "足下生暖，如沐温泉",
+                "txt": "暖气不足的时候，最不能懈怠的就收自己的双脚"
+            },
+            {
+                "src": "./src/assets/shiwu/sweet1.jpg",
+                "tit": "最钟爱的",
+                "txt": "超靓超靓的！今年盐系男的首选"
+            }
+        ]
+    },
+    {
+        "banner": "./src/assets/shiwu/win.jpg",
+        "tit": "没吃过他们，今年算白胖了",
+        "txt": "99元任选9件",
+        "childs": [
+            {
+                "src": "./src/assets/shiwu/win1.jpg",
+                "tit": "足下生暖，如沐温泉",
+                "txt": "暖气不足的时候，最不能懈怠的就收自己的双脚"
+            },
+            {
+                "src": "./src/assets/shiwu/win2.jpg",
+                "tit": "最钟爱的",
+                "txt": "超靓超靓的！今年盐系男的首选"
+            }
+        ]
+    }
+]
